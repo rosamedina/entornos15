@@ -1,10 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package entornosgit;
-
 /**
  *
  * @author Rosa Medina
@@ -12,6 +6,7 @@ package entornosgit;
 public class EntornosGIT {
 
     /**
+     * Programa principal donde veremos los cambios efectuados desde el github con Netbeans
      * @param args the command line arguments
      */
     public static void main(String[] args) {
